@@ -14,7 +14,8 @@
         "marker-color": "#c6c6c6",
         "marker-size": "large",
         "marker-symbol": "circle",
-        "name": "Tokyo"
+        "name": "Tokyo",
+        "icon": "./assets/Tokyo.png"
       },
       "id": "56d2c06f-dc4b-4aad-a674-019696830ec6"
     },
@@ -31,7 +32,8 @@
         "marker-color": "#bebebe",
         "marker-size": "large",
         "marker-symbol": "circle",
-        "name": "New York"
+        "name": "New York",
+        "icon": "./assets/NewYork.png"
       },
       "id": "56d2c06f-dc4b-4aad-a674-019696830ec8"
     },
@@ -48,7 +50,8 @@
         "marker-color": "#c7c7c7",
         "marker-size": "large",
         "marker-symbol": "circle",
-        "name": "Bangkok"
+        "name": "Bangkok",
+        "icon": "./assets/Bangkok.png"
       },
       "id": "56d2c06f-dc4b-4aad-a674-019696830ec10"
     },
@@ -65,7 +68,8 @@
         "marker-color": "#c0c0c0",
         "marker-size": "large",
         "marker-symbol": "circle",
-        "name": "London"
+        "name": "London",
+        "icon": "./assets/London.png"
       },
       "id": "56d2c06f-dc4b-4aad-a674-019696830ec11"
     },
@@ -82,9 +86,28 @@
         "marker-color": "#bebebe",
         "marker-size": "large",
         "marker-symbol": "circle",
-        "name": "San Francisco"
+        "name": "San Francisco",
+        "icon": "./assets/NewYork.png"
       },
       "id": "56d2c06f-dc4b-4aad-a674-019696830ec12"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "marker-color": "#bebebe",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "Paris",
+        "icon": "./assets/Paris.png"
+      },
+      "id": "56d2c06f-dc4b-4aad-a674-019696830ec13"
     }
   ]
 }
